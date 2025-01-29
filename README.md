@@ -25,7 +25,7 @@ The model is trained on a dataset of input and label text pairs. It uses a Trans
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-generation-transformer.git
+   git clone https://github.com/leefarhadaman/textgeneration_ml.git
    cd text-generation-transformer
    ```
 2. Install the required packages:
